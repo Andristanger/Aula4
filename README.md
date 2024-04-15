@@ -30,3 +30,6 @@ A:área
 D:diagonal maior 
 
 d:diagonal menor 
+
+RETÂNGULO 
+$A=b.h$
