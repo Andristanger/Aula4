@@ -33,3 +33,22 @@ d:diagonal menor
 
 RETÂNGULO 
 $A=b.h$
+Sendo, 
+
+A:área 
+
+B:base
+
+h:altura 
+
+TRAPÉZIO 
+$A=\frac{(B+b).h}{2}$
+Sendo,
+
+A:área 
+
+B:base maior
+
+b:base menor 
+
+h:altura 
