@@ -20,3 +20,6 @@ Sendo,
 A:área 
 
 L:lado
+
+LOSANGO 
+$A=\frac{D.d}{2}$
