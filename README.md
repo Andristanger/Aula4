@@ -64,6 +64,6 @@ Sendo,
 
 A:área 
 
-pi:constante pi(3,14)
+pi:constante pi(3,14) 
 
 r:raio
